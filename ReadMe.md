@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Soy un desarrollador de software con experiencia en tecnologías tanto de frontend como de backend, enfocado en el desarrollo web, servicios en la nube y despliegue de aplicaciones. Me encanta trabajar en equipo y siempre estoy buscando nuevas oportunidades para aprender y mejorar.
+Soy un desarrollador de software con experiencia en tecnologías tanto de frontend como de backend, enfocado en el desarrollo web, servicios en la nube y despliegue de aplicaciones. Disfruto trabajar en equipo y siempre estoy buscando nuevas oportunidades para aprender y mejorar.
 
 ## 🌐 Socials:
 
