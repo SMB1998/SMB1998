@@ -4,7 +4,7 @@ Soy un desarrollador de software con experiencia en tecnologías tanto de fronte
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Santiago Muñoz Bocanegra)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-mu%C3%B1oz-bocanegra-366581195/)
 
 # 💻 Tech Stack:
 
